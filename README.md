@@ -24,4 +24,4 @@ The model can be improved by training it on a larger dataset of x-ray images. Th
 
 ## Contact
 
-If you have any questions about this repository, please contact me at *<gautamrdev@gmail.com>*.
+If you have any questions about this repository, please contact me at *<gautamrdev7@gmail.com>*.
